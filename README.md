@@ -1,2 +1,2 @@
 # symmetrical
-A image extracing program for DiscordChatExporter HTML files
+An image extracting program for DiscordChatExporter HTML files
